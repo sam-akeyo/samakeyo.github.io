@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Sam -- Developer -- https://twitter.com/samakeyo
+
+# THANKS
+
+    Sam
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Modernizr, Bulma, Normalize.css
